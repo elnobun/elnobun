@@ -3,6 +3,13 @@
 ### Hi,
 
 I'm a Front-End Web Developer who is passionate about using code to solve problems through peer collaboration, contribution to open source, and building community. I enjoy working with tools like Next.js and MERN Stack (MongoDB, Express, React, NodeJS). I have specialized in helping entrepreneurs grow their businesses through bespoke web applications. On average, I have been able increase their customer retention by analytically identifying their business needs, stakeholders and recommending technological solutions.
- 
-![Ellis's GitHub stats](https://github-readme-stats.vercel.app/api?username=elnobun&show_icons=true&theme=default)
 
+### Some of my work:
+
+<a href="#"><img src="https://user-images.githubusercontent.com/15114201/116819858-f5483d00-ab69-11eb-9a25-8959ca4542bd.png" alt="" 
+                 width="250" height="150"/></a>
+<a href="#"><img src="https://user-images.githubusercontent.com/15114201/116819996-b4045d00-ab6a-11eb-91f7-d9f3863da4a7.png" alt="" 
+                 width="250" height="150"/></a>
+<a href="#"><img src="https://user-images.githubusercontent.com/15114201/116820067-fd54ac80-ab6a-11eb-8e84-a9d32d9db844.png" alt="" 
+                 width="250" height="150"/></a>
+ 
