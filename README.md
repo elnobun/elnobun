@@ -12,4 +12,3 @@ I'm a Front-End Web Developer who is passionate about using code to solve proble
                  width="250" height="150"/></a>
 <a href="#"><img src="https://user-images.githubusercontent.com/15114201/116820067-fd54ac80-ab6a-11eb-8e84-a9d32d9db844.png" alt="" 
                  width="250" height="150"/></a>
- 
