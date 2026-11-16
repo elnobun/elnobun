@@ -1,12 +1,51 @@
-![github-readme](https://user-images.githubusercontent.com/15114201/116810798-ae445280-ab3d-11eb-9125-132d5c50f712.png)
+<h1 align="center">Ellis Enobun</h1>
 
-<!-- ### Hi,
+<p align="center">
+  <strong>Frontend Developer</strong> · React · TypeScript · Next.js · Accessibility and performance
+</p>
 
-I'm a Front-End Web Developer who is passionate about using code to solve problems through peer collaboration, contribution to open source, and building community. I enjoy working with tools like Next.js and MERN Stack (MongoDB, Express, React, NodeJS). I have specialized in helping entrepreneurs grow their businesses through bespoke web applications. On average, I have been able increase their customer retention by analytically identifying their business needs, stakeholders and recommending technological solutions. -->
+<p align="center">
+  <a href="https://www.ellisenobun.com"><img src="https://img.shields.io/badge/Portfolio-ellisenobun.com-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/ellisenobun"><img src="https://img.shields.io/badge/LinkedIn-ellisenobun-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/Based%20in-UK-555555?style=flat-square" alt="Based in the UK" />
+</p>
 
-<!-- ### Some Projects I have work(ed) on as FrontEnd Developer:
+---
 
-<a href="https://puredrinks.co.uk/" target="_blank"><img src="https://user-images.githubusercontent.com/15114201/116819858-f5483d00-ab69-11eb-9a25-8959ca4542bd.png" alt="" width="250" height="150"/></a> &nbsp;
-<a href="https://sport.herts.ac.uk" target="_blank"><img alt="University of Hertsfordshire" src="https://user-images.githubusercontent.com/15114201/142673694-64a98faf-f202-4def-ad81-a2397ed1345d.png" width="250" height="150"/></a> &nbsp;
-<a href="https://www.lonsdaleservices.co.uk" target="_blank"><img alt="Lonsdale Services Uk" src="https://user-images.githubusercontent.com/15114201/142673530-4939ca8d-df1b-422e-b82e-df0537ccd2be.png" width="250" height="150"/></a> &nbsp;
-<a href="https://www.blackphone.co.uk/privy-2/" target="_blank"><img alt="Blackphone Privy 2.0" src="https://user-images.githubusercontent.com/15114201/142674115-631b5e89-5c50-45ea-b918-9e59681f1772.png" width="250" height="150"/></a> -->
+I build accessible, fast websites and web applications. I have six years of commercial experience taking projects from design to production code, and I measure the work by what it changes for users and the business.
+
+I am currently building React, TypeScript and Next.js projects. They are listed below as they are released.
+
+### Selected commercial results
+
+| Result | What I did |
+| --- | --- |
+| **+20% enquiries**, conversion **5% → 10%** in three months | Rebuilt course filtering and enquiry access on a training provider's website |
+| **+30% sign-ups** in two months | Rebuilt a university sports website with clearer club and membership navigation |
+| PageSpeed **68 → 95** | Technical audits and fixes for performance, SEO and accessibility |
+| **30+ websites** delivered | Responsive builds, including bespoke WordPress themes without page builders |
+| Team lead and code reviewer | Led a frontend team and a five-person rebuild; reviewed 40+ JavaScript and full-stack projects at Udacity |
+
+### Current projects
+
+| Project | Stack | Status |
+| --- | --- | --- |
+| Course catalogue site | Next.js, TypeScript, Payload CMS, Playwright | In progress, live from January 2027 |
+| Service request tracker | React, TypeScript, TanStack Query, Vitest | Starts February 2027 |
+
+### Tools I use
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Lighthouse-F44B21?style=flat-square&logo=lighthouse&logoColor=white" alt="Lighthouse" />
+</p>
